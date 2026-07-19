@@ -38,7 +38,6 @@ TaskFlow/
       └── script.js
 
 ## Developed By
-** Yoga Karthika **
-- **Name:** Arjun
+- **Name:** Yoga Karthika G
 - **Internship:** CodeAlpha Full Stack Development
 - **Task:** Task 3 - Project Management Tool
